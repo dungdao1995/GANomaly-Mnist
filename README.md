@@ -1,4 +1,4 @@
-# Ganomaly with MNIST Dataset
+# GANomaly with MNIST Dataset
 
 
 ![1_8TODMy_xoaOyleOOZ5S_EQ](https://user-images.githubusercontent.com/53828158/156644848-1044099b-c269-41ab-a585-4f6bc2d020d0.png)
